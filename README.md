@@ -1,1 +1,1 @@
-working on shell 
+my read me for the shell permision task 
